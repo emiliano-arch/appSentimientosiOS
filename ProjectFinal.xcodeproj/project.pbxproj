@@ -7,22 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6112A8632A0DF3A900C2CFB2 /* DetalleSentimiento.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112A8622A0DF3A900C2CFB2 /* DetalleSentimiento.swift */; };
+		6112A8652A0DF40200C2CFB2 /* LibsViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112A8642A0DF40200C2CFB2 /* LibsViews.swift */; };
 		6173C45F2A072645009FC63A /* ProjectFinalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6173C45E2A072645009FC63A /* ProjectFinalApp.swift */; };
-		6173C4612A072645009FC63A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6173C4602A072645009FC63A /* ContentView.swift */; };
 		6173C4632A072646009FC63A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6173C4622A072646009FC63A /* Assets.xcassets */; };
 		6173C4662A072646009FC63A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6173C4652A072646009FC63A /* Preview Assets.xcassets */; };
 		6173C4682A072646009FC63A /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6173C4672A072646009FC63A /* Persistence.swift */; };
 		6173C46B2A072646009FC63A /* ProjectFinal.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6173C4692A072646009FC63A /* ProjectFinal.xcdatamodeld */; };
+		6173C4722A093B77009FC63A /* grids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6173C4712A093B77009FC63A /* grids.swift */; };
+		619580F52A0C914700AA200B /* ControlerEmociones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619580F42A0C914700AA200B /* ControlerEmociones.swift */; };
+		619580F72A0C91DE00AA200B /* models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619580F62A0C91DE00AA200B /* models.swift */; };
+		619580F92A0C95D700AA200B /* BitacoraSentimientos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619580F82A0C95D700AA200B /* BitacoraSentimientos.swift */; };
+		619580FB2A0C998500AA200B /* tabBarControllerPrincipal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619580FA2A0C998500AA200B /* tabBarControllerPrincipal.swift */; };
+		619580FD2A0C9E2100AA200B /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 619580FC2A0C9E2100AA200B /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6112A8622A0DF3A900C2CFB2 /* DetalleSentimiento.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleSentimiento.swift; sourceTree = "<group>"; };
+		6112A8642A0DF40200C2CFB2 /* LibsViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibsViews.swift; sourceTree = "<group>"; };
 		6173C45B2A072645009FC63A /* ProjectFinal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectFinal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6173C45E2A072645009FC63A /* ProjectFinalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectFinalApp.swift; sourceTree = "<group>"; };
-		6173C4602A072645009FC63A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6173C4622A072646009FC63A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6173C4652A072646009FC63A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6173C4672A072646009FC63A /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		6173C46A2A072646009FC63A /* ProjectFinal.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ProjectFinal.xcdatamodel; sourceTree = "<group>"; };
+		6173C4712A093B77009FC63A /* grids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = grids.swift; sourceTree = "<group>"; };
+		619580F42A0C914700AA200B /* ControlerEmociones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlerEmociones.swift; sourceTree = "<group>"; };
+		619580F62A0C91DE00AA200B /* models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = models.swift; sourceTree = "<group>"; };
+		619580F82A0C95D700AA200B /* BitacoraSentimientos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitacoraSentimientos.swift; sourceTree = "<group>"; };
+		619580FA2A0C998500AA200B /* tabBarControllerPrincipal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabBarControllerPrincipal.swift; sourceTree = "<group>"; };
+		619580FC2A0C9E2100AA200B /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		61E4A8022A0DD25500670FF5 /* ProjectFinal 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ProjectFinal 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +54,9 @@
 		6173C4522A072645009FC63A = {
 			isa = PBXGroup;
 			children = (
+				61E4A8012A0DBC8300670FF5 /* views */,
+				619580F32A0C911C00AA200B /* Models */,
+				619580F22A0C911100AA200B /* Controler */,
 				6173C45D2A072645009FC63A /* ProjectFinal */,
 				6173C45C2A072645009FC63A /* Products */,
 			);
@@ -56,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				6173C45E2A072645009FC63A /* ProjectFinalApp.swift */,
-				6173C4602A072645009FC63A /* ContentView.swift */,
 				6173C4622A072646009FC63A /* Assets.xcassets */,
 				6173C4672A072646009FC63A /* Persistence.swift */,
 				6173C4692A072646009FC63A /* ProjectFinal.xcdatamodeld */,
@@ -71,6 +88,35 @@
 				6173C4652A072646009FC63A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		619580F22A0C911100AA200B /* Controler */ = {
+			isa = PBXGroup;
+			children = (
+				619580F42A0C914700AA200B /* ControlerEmociones.swift */,
+			);
+			path = Controler;
+			sourceTree = "<group>";
+		};
+		619580F32A0C911C00AA200B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				619580F62A0C91DE00AA200B /* models.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		61E4A8012A0DBC8300670FF5 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				619580F82A0C95D700AA200B /* BitacoraSentimientos.swift */,
+				619580FA2A0C998500AA200B /* tabBarControllerPrincipal.swift */,
+				619580FC2A0C9E2100AA200B /* Login.swift */,
+				6173C4712A093B77009FC63A /* grids.swift */,
+				6112A8622A0DF3A900C2CFB2 /* DetalleSentimiento.swift */,
+				6112A8642A0DF40200C2CFB2 /* LibsViews.swift */,
+			);
+			path = views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,10 +189,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				619580F72A0C91DE00AA200B /* models.swift in Sources */,
+				619580FD2A0C9E2100AA200B /* Login.swift in Sources */,
+				6112A8652A0DF40200C2CFB2 /* LibsViews.swift in Sources */,
+				6112A8632A0DF3A900C2CFB2 /* DetalleSentimiento.swift in Sources */,
 				6173C4682A072646009FC63A /* Persistence.swift in Sources */,
-				6173C4612A072645009FC63A /* ContentView.swift in Sources */,
+				619580F52A0C914700AA200B /* ControlerEmociones.swift in Sources */,
+				619580FB2A0C998500AA200B /* tabBarControllerPrincipal.swift in Sources */,
+				619580F92A0C95D700AA200B /* BitacoraSentimientos.swift in Sources */,
 				6173C46B2A072646009FC63A /* ProjectFinal.xcdatamodeld in Sources */,
 				6173C45F2A072645009FC63A /* ProjectFinalApp.swift in Sources */,
+				6173C4722A093B77009FC63A /* grids.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -352,6 +405,7 @@
 		6173C4692A072646009FC63A /* ProjectFinal.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				61E4A8022A0DD25500670FF5 /* ProjectFinal 2.xcdatamodel */,
 				6173C46A2A072646009FC63A /* ProjectFinal.xcdatamodel */,
 			);
 			currentVersion = 6173C46A2A072646009FC63A /* ProjectFinal.xcdatamodel */;
